@@ -1,0 +1,16 @@
+.sidebar-true > div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2vh 0px;
+  cursor: pointer;
+}
+.sidebar-true {
+  position: fixed;
+  top: 9%;
+}
+.sidebar-true-title {
+  font-size: 12px;
+  padding-top: 2px;
+}
